@@ -10,4 +10,4 @@ ssr://d3d3LndlaXNoZW5nd3UudGs6MTExNDphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW
 
 # joya.ga节点3
 
-: ssr://d3d3LndlaXNoZW5nd3UudGs6MjMzMzphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW46ZFdsa1kyZw
+ssr://d3d3LndlaXNoZW5nd3UudGs6MjMzMzphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW46ZFdsa1kyZw
