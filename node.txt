@@ -1,13 +1,3 @@
-# 节点列表
-
-# joya.ga节点1
-
 ssr://d3d3LndlaXNoZW5nd3UudGs6NDU3ODphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW46WTJoemEzTnVaR2s
-
-# joya.ga节点2
-
 ssr://d3d3LndlaXNoZW5nd3UudGs6MTExNDphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW46YzNKNWFHVQ
-
-# joya.ga节点3
-
 ssr://d3d3LndlaXNoZW5nd3UudGs6MjMzMzphdXRoX2FlczEyOF9tZDU6YWVzLTEyOC1jdHI6cGxhaW46ZFdsa1kyZw
